@@ -1,0 +1,28 @@
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\bin\Debug\LAB_EXAM.exe.config
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\bin\Debug\LAB_EXAM.exe
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\bin\Debug\LAB_EXAM.pdb
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\bin\Debug\LAB_EXAM.xml
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.SuggestedBindingRedirects.cache
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.Form1.resources
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.Resources.resources
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.exe
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.xml
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.pdb
+C:\Users\QCU\source\repos\LAB_EXAM\LAB_EXAM\obj\Debug\LAB_EXAM.Form2.resources
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\bin\Debug\LAB_EXAM.exe.config
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\bin\Debug\LAB_EXAM.exe
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\bin\Debug\LAB_EXAM.pdb
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\bin\Debug\LAB_EXAM.xml
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.AssemblyReference.cache
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.SuggestedBindingRedirects.cache
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.Form1.resources
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.Form2.resources
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.Resources.resources
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.GenerateResource.cache
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.exe
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.xml
+C:\Users\QCU\Downloads\New folder\Simple Basic Personal Information (vbnet)\LAB_EXAM\obj\Debug\LAB_EXAM.pdb
