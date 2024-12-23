@@ -1,0 +1,17 @@
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\bin\Debug\Group3_BarangaySystem.exe.config
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\bin\Debug\Group3_BarangaySystem.exe
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\bin\Debug\Group3_BarangaySystem.pdb
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\bin\Debug\Group3_BarangaySystem.xml
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.vbproj.AssemblyReference.cache
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.vbproj.SuggestedBindingRedirects.cache
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.Resources.resources
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.vbproj.GenerateResource.cache
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.vbproj.CoreCompileInputs.cache
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.exe
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.xml
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.pdb
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.Login_Formvb.resources
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.SignUpForm.resources
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.AdminHome.resources
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.Admin_IdForm.resources
+C:\Users\QCU\source\repos\Group3_BarangaySystem\Group3_BarangaySystem\obj\Debug\Group3_BarangaySystem.AdminRecords.resources
